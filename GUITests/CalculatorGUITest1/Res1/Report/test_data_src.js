@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\bespalov\\UftTests\\GUITests\\CalculatorGUITest\\Res1',namePairs:[]}]};
