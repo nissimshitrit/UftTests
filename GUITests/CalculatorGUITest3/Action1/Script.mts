@@ -1,4 +1,6 @@
 ﻿
+Window("Calculator").Close
+Window("Internet Explorer").Minimize @@ hightlight id_;_131106_;_script infofile_;_ZIP::ssf38.xml_;_
 Window("Calculator").WinButton("Button").Click @@ hightlight id_;_3802072_;_script infofile_;_ZIP::ssf7.xml_;_
 Window("Calculator").WinButton("Button_7").Click @@ hightlight id_;_2032336_;_script infofile_;_ZIP::ssf8.xml_;_
 Window("Calculator").WinButton("Button_8").Click @@ hightlight id_;_4849910_;_script infofile_;_ZIP::ssf9.xml_;_
