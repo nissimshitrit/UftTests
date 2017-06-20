@@ -9,7 +9,7 @@ Browser("Login").Page("TEAM BACKLOG").WebButton("Team Management").Click @@ high
 Browser("Login").Page("BACKLOG - Features").WebElement("BACKLOG").Click @@ hightlight id_;_Browser("Login").Page("BACKLOG - Features").WebElement("BACKLOG")_;_script infofile_;_ZIP::ssf23.xml_;_
 Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG").Click @@ hightlight id_;_Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG")_;_script infofile_;_ZIP::ssf24.xml_;_
 Browser("Login").Page("TEAM BACKLOG").WebButton("Team Management").Click @@ hightlight id_;_Browser("Login").Page("TEAM BACKLOG").WebButton("Team Management")_;_script infofile_;_ZIP::ssf25.xml_;_
-Browser("Login").Page("TEAM BACKLOG").WebElement("WebElement_4").Click @@ hightlight id_;_Browser("Login").Page("TEAM BACKLOG").WebElement("WebElement 4")_;_script infofile_;_ZIP::ssf26.xml_;_
+Browser("Login").Page("TEAM BACKLOG").WebElement("ManageTeamPage").Click @@ hightlight id_;_Browser("Login").Page("TEAM BACKLOG").WebElement("WebElement 4")_;_script infofile_;_ZIP::ssf26.xml_;_
 'Browser("Login").CloseAllTabs
 
  @@ hightlight id_;_Browser("Login").Page("BACKLOG - Features").WebButton("Delete")_;_script infofile_;_ZIP::ssf16.xml_;_
