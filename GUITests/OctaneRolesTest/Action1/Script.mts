@@ -6,6 +6,6 @@ Browser("Login").Page("BACKLOG - Features").WebElement("BACKLOG").Click @@ hight
 Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG").Click @@ hightlight id_;_Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG")_;_script infofile_;_ZIP::ssf24.xml_;_
 Browser("Login").Page("TEAM BACKLOG").WebButton("Team Panel").Click @@ hightlight id_;_Browser("Login").Page("TEAM BACKLOG").WebButton("Team Management")_;_script infofile_;_ZIP::ssf25.xml_;_
 Browser("Login").Page("TEAM BACKLOG").WebElement("Manage Team Page").Click @@ hightlight id_;_Browser("Login").Page("TEAM BACKLOG").WebElement("WebElement 4")_;_script infofile_;_ZIP::ssf26.xml_;_
-'Browser("Login").CloseAllTabs
+Browser("Login").CloseAllTabs
 
  @@ hightlight id_;_Browser("Login").Page("BACKLOG - Features").WebButton("Delete")_;_script infofile_;_ZIP::ssf16.xml_;_
