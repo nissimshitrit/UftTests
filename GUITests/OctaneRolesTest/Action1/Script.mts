@@ -5,6 +5,5 @@ wait(10)
 Browser("Login").Page("BACKLOG - Features").WebElement("BACKLOG").Click
 Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG").Click
 Browser("Login").Page("TEAM BACKLOG_2").WebButton("Team Management").Click
-Browser("Login").Page("TEAM BACKLOG_2").WebElement("Manage Team Page").Click
 Browser("Login").CloseAllTabs
 
