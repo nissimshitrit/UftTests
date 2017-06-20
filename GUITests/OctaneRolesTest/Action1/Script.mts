@@ -9,6 +9,6 @@ Browser("Login").Page("TEAM BACKLOG").WebButton("Team Panel").Click
 Browser("Login").Page("BACKLOG - Features").WebElement("BACKLOG").Click
 Browser("Login").Page("BACKLOG - Features").Link("TEAM BACKLOG").Click
 Browser("Login").Page("TEAM BACKLOG").WebButton("Team Panel").Click
-
+Browser("Login").Page("TEAM BACKLOG").WebElement("Manage Team Page").Click
 Browser("Login").CloseAllTabs
 
