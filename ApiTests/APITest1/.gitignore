@@ -1,8 +1,6 @@
 #UFT ignore section
 /obj
 /DatabaseBackup
-/bin/Script.dll
-/bin/Script.pdb
 /Result*
 /flow.png
 /FlowSerialization.zip
