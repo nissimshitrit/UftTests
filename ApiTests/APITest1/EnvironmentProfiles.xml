@@ -9,8 +9,8 @@
                 <xs:element name="VarName" type="xs:string" minOccurs="0" />
                 <xs:element name="IsSystem" type="xs:boolean" default="false" minOccurs="0" />
                 <xs:element name="Description" type="xs:string" default="" minOccurs="0" />
-                <xs:element name="Profile1" type="xs:string" minOccurs="0" />
                 <xs:element name="SystemProfile" type="xs:string" minOccurs="0" />
+                <xs:element name="Profile1" type="xs:string" minOccurs="0" />
               </xs:sequence>
             </xs:complexType>
           </xs:element>
@@ -86,7 +86,7 @@
     <VarName>CurrentDate</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>14/06/2017 09:46:24</SystemProfile>
+    <SystemProfile>21/06/2017 09:27:01</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>QcUrl</VarName>
