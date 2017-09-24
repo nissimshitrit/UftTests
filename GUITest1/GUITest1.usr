@@ -32,15 +32,17 @@ Lang=none
 
 [TulipInfo]
 ProductName=HPE Unified Functional Testing
-Version=14.0
+Version=14.1
 
 [TulipAddins]
+ActiveX=
 Database=
 File Content=
 Insight=
 Windows Applications=
 TEA=
-UI Automation=
+Visual Basic=
+Web=
 XML=
 
 [ExtraFiles]
