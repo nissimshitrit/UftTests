@@ -6,11 +6,11 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2017-07-17 15:11:04</StartTime>
+    <StartTime>2018-02-19 11:14:08</StartTime>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>b580383938304d04b8ff1a35343bf7fa</IconKey>
+      <IconKey>d5208d16886c43f9bd878539d2a4bf5d</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -18,11 +18,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2017-07-17 15:11:04</StartTime>
+    <StartTime>2018-02-19 11:14:08</StartTime>
     <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>ddd4ef8a38a144e9bf4d4009ceb7d15b</IconKey>
+      <IconKey>ce2f5f7b2c8e4bdab382bf396c1b8647</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -31,26 +31,26 @@
 </ReportNode>
 <Data>
     <Name>GUITest1</Name>
-    <ToolName>HP Unified Functional Testing</ToolName>
-    <ToolVersion>12.54</ToolVersion>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.1</ToolVersion>
     <Description />
-    <StartTime>2017-07-17 15:11:04</StartTime>
-    <Duration>0</Duration>
+    <StartTime>2018-02-19 11:14:07</StartTime>
+    <Duration>1</Duration>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>c8db9e1bfec140cebdd8259656969342</IconKey>
+      <IconKey>535a388238e9422d9ce72616e1ec1ea0</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
-      <Timezone>+03:00:00</Timezone>
-      <Locale>עברית (ישראל)</Locale>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>English (United States)</Locale>
       <User>EMEA\berkovir</User>
-      <CpuInfo>Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz</CpuInfo>
+      <CpuInfo>Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz</CpuInfo>
       <NumberOfCores>8</NumberOfCores>
-      <TotalMemory>15641</TotalMemory>
-      <HostName>emea.cpqcorp.net\BERKOVIR2</HostName>
-      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+      <TotalMemory>16041</TotalMemory>
+      <HostName>emea.cpqcorp.net\BERKOVIR</HostName>
+      <OSInfo>Windows 10</OSInfo>
     </Environment>
     <TestedApplications />
     <Links>
@@ -59,10 +59,10 @@
   </Data>
 </ReportNode>
 <GeneralInfo>
-    <ResultName />
-    <RunStartTime>2017-07-17 15:11:04</RunStartTime>
-    <Timezone>+03:00:00</Timezone>
-    <OrchestrationToolName>HP Unified Functional Testing</OrchestrationToolName>
-    <OrchestrationToolVersion>12.54</OrchestrationToolVersion>
+    <ResultName>GUITest1</ResultName>
+    <RunStartTime>2018-02-19 11:14:07</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.1</OrchestrationToolVersion>
   </GeneralInfo>
 </Results>
