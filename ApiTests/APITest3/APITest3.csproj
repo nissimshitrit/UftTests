@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{C7BF57A7-7F1A-4D19-94C2-81CFAEAEF719}</ProjectGuid>
+    <ProjectGuid>{FDC3209C-C2E5-4D92-9434-7F0A8D2EAB4A}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <OutputType>Library</OutputType>
-    <RootNamespace>APITest1</RootNamespace>
+    <RootNamespace>APITest3</RootNamespace>
     <AssemblyName>Script</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <ReferencePath>
@@ -108,7 +108,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="APITest1.st" />
+    <None Include="APITest3.st" />
     <None Include="flow.png" />
     <None Include="Log\vtd_log.config" />
   </ItemGroup>

@@ -5,7 +5,7 @@
     *  Manually changing the contents of this file may result in 
     *  loss of information.
     *          
-    *  To edit the test, open the file ‘APITest1.st’ 
+    *  To edit the test, open the file ‘APITest2.st’ 
     *  in HP Service Test.
      ***************************************************************/
     
@@ -116,7 +116,7 @@
             _flow.Loop2.NumberOfIterations = (int)1;
             _flow.Loop2.Comment = @"";
             _flow.Loop2.IconPath = @"AddIns\ServiceTest\BasicActivities\toolbox_loop.png";
-            _flow.Loop2.Name = @"Test Flow";
+            _flow.Loop2.Name = @"Test test2";
             _flow.Loop2.Activities.Add (_flow.Sequence4);
             this.Activities.Add (_flow.Loop2);
             _flow.EndActivity3.Comment = @"";

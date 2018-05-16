@@ -112,8 +112,8 @@
             _flow.StartActivity1.JMS.UserTimeout = @"20";
             _flow.StartActivity1.JMS.GenerateAutoSelector = @"No";
             this.Activities.Add (_flow.StartActivity1);
-            _flow.Loop2.ConditionAsString = @"Run for 2 iterations";
-            _flow.Loop2.NumberOfIterations = (int)2;
+            _flow.Loop2.ConditionAsString = @"Run for 1 iteration";
+            _flow.Loop2.NumberOfIterations = (int)1;
             _flow.Loop2.Comment = @"";
             _flow.Loop2.IconPath = @"AddIns\ServiceTest\BasicActivities\toolbox_loop.png";
             _flow.Loop2.Name = @"Test Flow";
