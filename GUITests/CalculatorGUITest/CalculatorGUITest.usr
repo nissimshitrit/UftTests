@@ -31,13 +31,14 @@ Default Profile=default.usp
 Lang=none
 
 [TulipInfo]
-ProductName=HP Unified Functional Testing
-Version=12.54
+ProductName=Micro Focus Unified Functional Testing
+Version=14.51
 
 [TulipAddins]
 Database=
 File Content=
 Insight=
+Mobile=
 Windows Applications=
 TEA=
 Web=
