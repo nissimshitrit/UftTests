@@ -1,46 +1,41 @@
 <?xml version="1.0"?>
 <Results version="1.0">
 <ReportNode type="testrun">
-<ReportNode type="Iteration">
-<ReportNode type="Action">
+<ReportNode type="Step">
 <Data>
-    <Name>Action1</Name>
-    <Description />
-    <StartTime>2019-07-01 13:25:55</StartTime>
-    <Result>Done</Result>
-    <InputParameters />
+    <Name>General run error.</Name>
+    <Description>The Micro Focus Unified Functional Testing computer is locked or logged off.</Description>
+    <StartTime>2019-06-20 10:01:22</StartTime>
+    <Result>Failed</Result>
     <Extension>
-      <IconKey>61c67f63fdf44ece84c585656713eb8e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2019-06-20 10:01:22</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>d537bf1e873c45c5b100d91eb24db78e</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
 </ReportNode>
 <Data>
-    <Name>Action0</Name>
-    <Description />
-    <StartTime>2019-07-01 13:25:55</StartTime>
-    <Duration>1</Duration>
-    <Result>Done</Result>
-    <Extension>
-      <IconKey>bcd65bd706cf43b48ff9b7657929cd98</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-    </Extension>
-    <Index>1</Index>
-    <TestedApplications />
-  </Data>
-</ReportNode>
-<Data>
-    <Name>GUITest2_123</Name>
+    <Name>GUITest4_3</Name>
     <ToolName>Micro Focus Unified Functional Testing</ToolName>
     <ToolVersion>14.51</ToolVersion>
     <ToolVersionStringLiteral>14.51</ToolVersionStringLiteral>
     <Description />
-    <StartTime>2019-07-01 13:25:55</StartTime>
-    <Duration>1</Duration>
-    <Result>Done</Result>
+    <StartTime>2019-06-20 10:01:22</StartTime>
+    <Duration>0</Duration>
+    <Result>Failed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>72d1ee23b8e0482cb79d955cd493fe7b</IconKey>
+      <IconKey>e406dfcd11f84b708bea4f4290bba57f</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -60,8 +55,8 @@
   </Data>
 </ReportNode>
 <GeneralInfo>
-    <ResultName>GUITest2_123</ResultName>
-    <RunStartTime>2019-07-01 13:25:55</RunStartTime>
+    <ResultName>GUITest4_3</ResultName>
+    <RunStartTime>2019-06-20 10:01:22</RunStartTime>
     <Timezone>+03:00:00</Timezone>
     <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.51</OrchestrationToolVersion>

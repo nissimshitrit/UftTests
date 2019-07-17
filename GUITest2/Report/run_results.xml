@@ -6,11 +6,11 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-07-01 13:25:55</StartTime>
+    <StartTime>2019-07-01 13:25:49</StartTime>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>61c67f63fdf44ece84c585656713eb8e</IconKey>
+      <IconKey>5429e091f1b441098efee909a06607a1</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -18,11 +18,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-07-01 13:25:55</StartTime>
+    <StartTime>2019-07-01 13:25:49</StartTime>
     <Duration>1</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>bcd65bd706cf43b48ff9b7657929cd98</IconKey>
+      <IconKey>9db105ea16674a288eafdca89f08b2c7</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -30,17 +30,17 @@
   </Data>
 </ReportNode>
 <Data>
-    <Name>GUITest2_123</Name>
+    <Name>GUITest2</Name>
     <ToolName>Micro Focus Unified Functional Testing</ToolName>
     <ToolVersion>14.51</ToolVersion>
     <ToolVersionStringLiteral>14.51</ToolVersionStringLiteral>
     <Description />
-    <StartTime>2019-07-01 13:25:55</StartTime>
+    <StartTime>2019-07-01 13:25:49</StartTime>
     <Duration>1</Duration>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>72d1ee23b8e0482cb79d955cd493fe7b</IconKey>
+      <IconKey>d70c99526b0e48b1b57becedb5e7f066</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -60,8 +60,8 @@
   </Data>
 </ReportNode>
 <GeneralInfo>
-    <ResultName>GUITest2_123</ResultName>
-    <RunStartTime>2019-07-01 13:25:55</RunStartTime>
+    <ResultName>GUITest2</ResultName>
+    <RunStartTime>2019-07-01 13:25:49</RunStartTime>
     <Timezone>+03:00:00</Timezone>
     <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.51</OrchestrationToolVersion>

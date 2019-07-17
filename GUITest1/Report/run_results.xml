@@ -6,11 +6,11 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2018-11-06 07:39:41</StartTime>
+    <StartTime>2019-07-01 13:25:37</StartTime>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>f6d4c9ce332d4bf1b269f6436cbb4caf</IconKey>
+      <IconKey>88b74ad4b81e478fad81032006d93f6e</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -18,11 +18,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2018-11-06 07:39:41</StartTime>
+    <StartTime>2019-07-01 13:25:37</StartTime>
     <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>34eaf60c3b3e454aac625a2cb37b28fb</IconKey>
+      <IconKey>3f227b8cc62640689c2fd5fd80a116f6</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -31,25 +31,26 @@
 </ReportNode>
 <Data>
     <Name>GUITest1</Name>
-    <ToolName>HPE Unified Functional Testing</ToolName>
-    <ToolVersion>14.1</ToolVersion>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>14.51</ToolVersion>
+    <ToolVersionStringLiteral>14.51</ToolVersionStringLiteral>
     <Description />
-    <StartTime>2018-11-06 07:39:41</StartTime>
+    <StartTime>2019-07-01 13:25:37</StartTime>
     <Duration>0</Duration>
     <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>d529b51eeb5d4acbaddca06be70fed46</IconKey>
+      <IconKey>e97e8904a01445d895ff7dbf49c42b56</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
-      <Timezone>+02:00:00</Timezone>
+      <Timezone>+03:00:00</Timezone>
       <Locale>English (United States)</Locale>
-      <User>EMEA\berkovir</User>
-      <CpuInfo>Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz</CpuInfo>
-      <NumberOfCores>8</NumberOfCores>
-      <TotalMemory>16265</TotalMemory>
-      <HostName>emea.cpqcorp.net\RUCITJG2RM</HostName>
+      <User>swinfra\_octane_xmen_cyphers</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz</CpuInfo>
+      <NumberOfCores>2</NumberOfCores>
+      <TotalMemory>3072</TotalMemory>
+      <HostName>swinfra.net\MYD-VMA00934</HostName>
       <OSInfo>Windows 10</OSInfo>
     </Environment>
     <TestedApplications />
@@ -60,9 +61,10 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>GUITest1</ResultName>
-    <RunStartTime>2018-11-06 07:39:41</RunStartTime>
-    <Timezone>+02:00:00</Timezone>
-    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
-    <OrchestrationToolVersion>14.1</OrchestrationToolVersion>
+    <RunStartTime>2019-07-01 13:25:37</RunStartTime>
+    <Timezone>+03:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.51</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>14.51</OrchestrationToolVersionStringLiteral>
   </GeneralInfo>
 </Results>
