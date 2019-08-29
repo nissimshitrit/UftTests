@@ -31,17 +31,15 @@ Default Profile=default.usp
 Lang=none
 
 [TulipInfo]
-ProductName=Micro Focus Unified Functional Testing
-Version=14.51
+ProductName=HPE Unified Functional Testing
+Version=14.1
 
 [TulipAddins]
-ActiveX=
 Database=
 File Content=
 Insight=
 Windows Applications=
 TEA=
-Web=
 XML=
 
 [ExtraFiles]
