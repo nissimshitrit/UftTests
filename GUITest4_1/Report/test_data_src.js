@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Jenkins\\workspace\\UFT test run job - Suite ID 2156\\..\\..\\_test_sources\\https___github.com_radislavB_UftTests.git\\GUITest4_1',namePairs:[]}]};
