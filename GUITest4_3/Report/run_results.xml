@@ -1,52 +1,56 @@
 <?xml version="1.0"?>
 <Results version="1.0">
 <ReportNode type="testrun">
-<ReportNode type="Step">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
 <Data>
-    <Name>General run error.</Name>
-    <Description>The Micro Focus Unified Functional Testing computer is locked or logged off.</Description>
-    <StartTime>2019-06-20 10:01:22</StartTime>
-    <Result>Failed</Result>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2019-08-29 14:35:02</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
     <Extension>
+      <IconKey>a4aaa9a333284f3bbb3e9077f7c3c936</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
 </ReportNode>
-<ReportNode type="Step">
 <Data>
-    <Name>Stop Run</Name>
-    <Description>Run stopped by user.</Description>
-    <StartTime>2019-06-20 10:01:22</StartTime>
-    <Result>Information</Result>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2019-08-29 14:35:02</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
     <Extension>
-      <IconKey>d537bf1e873c45c5b100d91eb24db78e</IconKey>
+      <IconKey>6366e73ff16543acbc36e19fb4e021f5</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
+    <Index>1</Index>
+    <TestedApplications />
   </Data>
 </ReportNode>
 <Data>
     <Name>GUITest4_3</Name>
-    <ToolName>Micro Focus Unified Functional Testing</ToolName>
-    <ToolVersion>14.51</ToolVersion>
-    <ToolVersionStringLiteral>14.51</ToolVersionStringLiteral>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.1</ToolVersion>
     <Description />
-    <StartTime>2019-06-20 10:01:22</StartTime>
+    <StartTime>2019-08-29 14:35:02</StartTime>
     <Duration>0</Duration>
-    <Result>Failed</Result>
+    <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>e406dfcd11f84b708bea4f4290bba57f</IconKey>
+      <IconKey>f795109ef4a54894b7d8bb4e1c942040</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
       <Timezone>+03:00:00</Timezone>
       <Locale>English (United States)</Locale>
-      <User>swinfra\_octane_xmen_cyphers</User>
+      <User>HPESWLAB\_alm_octane_auto</User>
       <CpuInfo>Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz</CpuInfo>
-      <NumberOfCores>2</NumberOfCores>
-      <TotalMemory>3072</TotalMemory>
-      <HostName>swinfra.net\MYD-VMA00934</HostName>
-      <OSInfo>Windows 10</OSInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>8192</TotalMemory>
+      <HostName>hpeswlab.net\MYD-VM08531</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
     </Environment>
     <TestedApplications />
     <Links>
@@ -56,10 +60,9 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>GUITest4_3</ResultName>
-    <RunStartTime>2019-06-20 10:01:22</RunStartTime>
+    <RunStartTime>2019-08-29 14:35:02</RunStartTime>
     <Timezone>+03:00:00</Timezone>
-    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
-    <OrchestrationToolVersion>14.51</OrchestrationToolVersion>
-    <OrchestrationToolVersionStringLiteral>14.51</OrchestrationToolVersionStringLiteral>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.1</OrchestrationToolVersion>
   </GeneralInfo>
 </Results>
