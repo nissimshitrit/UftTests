@@ -44,7 +44,7 @@
     <VarName>LocalHostName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>BERKOVIR</SystemProfile>
+    <SystemProfile>MYD-VMA00934</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>OS</VarName>
@@ -56,37 +56,37 @@
     <VarName>OSVersion</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>Microsoft Windows NT 10.0.14393.0</SystemProfile>
+    <SystemProfile>Microsoft Windows NT 10.0.17134.0</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>ProductDir</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>C:\Program Files (x86)\HPE\Unified Functional Testing\</SystemProfile>
+    <SystemProfile>C:\Program Files\Micro Focus\Unified Functional Testing\</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>ProductName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>HPE Unified Functional Testing</SystemProfile>
+    <SystemProfile>Micro Focus Unified Functional Testing</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>ProductVer</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>14.1</SystemProfile>
+    <SystemProfile>14.51</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>UserName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>berkovir</SystemProfile>
+    <SystemProfile>_xmen_cyphers</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>CurrentDate</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>5/16/2018 10:00:26 AM</SystemProfile>
+    <SystemProfile>5/27/2020 4:54:57 PM</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>QcUrl</VarName>
