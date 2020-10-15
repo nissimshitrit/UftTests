@@ -7,8 +7,9 @@
 <ReportNode type="Step">
 <Data>
     <Name>Edit.Type</Name>
-    <Description>"Default - test"</Description>
-    <StartTime>2019-06-18 14:47:12</StartTime>
+    <Description>"Default - test
+"</Description>
+    <StartTime>2020-10-15 17:24:55</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -24,7 +25,8 @@
           </Object>
         </Path>
         <Operation>Type</Operation>
-        <OperationData><![CDATA["Default - test"]]></OperationData>
+        <OperationData><![CDATA["Default - test
+"]]></OperationData>
         <Properties>
           <Property>
             <Name><![CDATA[nativeclass]]></Name>
@@ -32,7 +34,147 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>8fc6fe56fecf42a98504528193dac483</IconKey>
+      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edit.Type</Name>
+    <Description>"ParamString = default string 123
+"</Description>
+    <StartTime>2020-10-15 17:24:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Notepad]]></Name>
+          </Object>
+          <Object>
+            <Type>WinEditor</Type>
+            <Name><![CDATA[Edit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["ParamString = default string 123
+"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edit.Type</Name>
+    <Description>"ParamNumber = 123
+"</Description>
+    <StartTime>2020-10-15 17:24:56</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Notepad]]></Name>
+          </Object>
+          <Object>
+            <Type>WinEditor</Type>
+            <Name><![CDATA[Edit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["ParamNumber = 123
+"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edit.Type</Name>
+    <Description>"ParamBoolean = True
+"</Description>
+    <StartTime>2020-10-15 17:24:57</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Notepad]]></Name>
+          </Object>
+          <Object>
+            <Type>WinEditor</Type>
+            <Name><![CDATA[Edit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["ParamBoolean = True
+"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Edit.Type</Name>
+    <Description>"ParamDate = 1/2/2020
+"</Description>
+    <StartTime>2020-10-15 17:24:57</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Notepad]]></Name>
+          </Object>
+          <Object>
+            <Type>WinEditor</Type>
+            <Name><![CDATA[Edit]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["ParamDate = 1/2/2020
+"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -41,7 +183,7 @@
 <Data>
     <Name>Notepad.Close</Name>
     <Description />
-    <StartTime>2019-06-18 14:47:12</StartTime>
+    <StartTime>2020-10-15 17:24:57</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -72,17 +214,58 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>7a0c000441be42ada330ab24b36acb86</IconKey>
+      <IconKey>9991697d6731442195f9ae53415ece3a</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
 </ReportNode>
 <ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Don't Save.Click</Name>
+    <Description />
+    <StartTime>2020-10-15 17:24:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Notepad]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Notepad]]></Name>
+          </Object>
+          <Object>
+            <Type>WinButton</Type>
+            <Name><![CDATA[Don't Save]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Do&amp;n't Save]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8a312bcf38ff4f2cbc56fed944b5a56c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
 <Data>
     <Name>Notepad</Name>
     <Description>Dialog</Description>
-    <StartTime>2019-06-18 14:47:34</StartTime>
-    <Result>Warning</Result>
+    <StartTime>2020-10-15 17:24:58</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
     <Extension>
       <TestObject>
         <Repository>Local</Repository>
@@ -116,7 +299,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>377d88bc9602420bb381ed26784896bf</IconKey>
+      <IconKey>1706b52dc8dd47c3a5e13818b8433b99</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -124,9 +307,9 @@
 <Data>
     <Name>Notepad</Name>
     <Description>Window</Description>
-    <StartTime>2019-06-18 14:47:12</StartTime>
-    <Duration>22</Duration>
-    <Result>Warning</Result>
+    <StartTime>2020-10-15 17:24:55</StartTime>
+    <Duration>3</Duration>
+    <Result>Done</Result>
     <Extension>
       <TestObject>
         <Repository>Local</Repository>
@@ -156,100 +339,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>7a0c000441be42ada330ab24b36acb86</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-    </Extension>
-  </Data>
-</ReportNode>
-<ReportNode type="Context">
-<ReportNode type="Step">
-<Data>
-    <Name>Don't Save.Click</Name>
-    <ErrorText>Cannot find the "Don't Save" object's parent "Notepad" (class Window).
-Verify that parent properties match an object currently displayed in your application.</ErrorText>
-    <Description>Cannot&amp;nbsp;find&amp;nbsp;the&amp;nbsp;"Don't&amp;nbsp;Save"&amp;nbsp;object's&amp;nbsp;parent&amp;nbsp;"Notepad"&amp;nbsp;(class&amp;nbsp;Window).&lt;br/&gt;Verify&amp;nbsp;that&amp;nbsp;parent&amp;nbsp;properties&amp;nbsp;match&amp;nbsp;an&amp;nbsp;object&amp;nbsp;currently&amp;nbsp;displayed&amp;nbsp;in&amp;nbsp;your&amp;nbsp;application.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;regexpwndtitle = Notepad&lt;br&gt;regexpwndclass = Notepad&lt;br&gt;is owned window = 0&lt;br&gt;is child window = 0&lt;br&gt;</Description>
-    <StartTime>2019-06-18 14:47:34</StartTime>
-    <Result>Failed</Result>
-    <Extension>
-      <StackTrace>
-        <StackFrame>
-          <ModuleName><![CDATA[Action1]]></ModuleName>
-          <FileName><![CDATA[Action1]]></FileName>
-          <Language><![CDATA[VBScript - script block]]></Language>
-          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
-          <Scripts><![CDATA[Window("Notepad").Dialog("Notepad").WinButton("Don't Save").Click]]></Scripts>
-          <LineNo><![CDATA[3]]></LineNo>
-        </StackFrame>
-      </StackTrace>
-      <TestObject>
-        <Repository>Local</Repository>
-        <Path>
-          <Object>
-            <Type>Window</Type>
-            <Name><![CDATA[Notepad]]></Name>
-          </Object>
-          <Object>
-            <Type>Dialog</Type>
-            <Name><![CDATA[Notepad]]></Name>
-          </Object>
-          <Object>
-            <Type>WinButton</Type>
-            <Name><![CDATA[Don't Save]]></Name>
-          </Object>
-        </Path>
-        <Operation>Click</Operation>
-        <Properties>
-          <Property>
-            <Name><![CDATA[text]]></Name>
-            <Value><![CDATA[Do&amp;n't Save]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[nativeclass]]></Name>
-            <Value><![CDATA[Button]]></Value>
-          </Property>
-        </Properties>
-      </TestObject>
-      <IconKey>b64468656d754317874e4037584d0ca5</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-    </Extension>
-  </Data>
-</ReportNode>
-<Data>
-    <Name>Notepad</Name>
-    <Description>Window</Description>
-    <StartTime>2019-06-18 14:47:34</StartTime>
-    <Duration>0</Duration>
-    <Result>Failed</Result>
-    <Extension>
-      <TestObject>
-        <Repository>Local</Repository>
-        <Path>
-          <Object>
-            <Type>Window</Type>
-            <Name><![CDATA[Notepad]]></Name>
-          </Object>
-        </Path>
-        <OperationData><![CDATA[Window]]></OperationData>
-        <Properties>
-          <Property>
-            <Name><![CDATA[regexpwndtitle]]></Name>
-            <Value><![CDATA[Notepad]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[regexpwndclass]]></Name>
-            <Value><![CDATA[Notepad]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[is owned window]]></Name>
-            <Value><![CDATA[False]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[is child window]]></Name>
-            <Value><![CDATA[False]]></Value>
-          </Property>
-        </Properties>
-      </TestObject>
-      <IconKey>7a0c000441be42ada330ab24b36acb86</IconKey>
+      <IconKey>9991697d6731442195f9ae53415ece3a</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -257,12 +347,12 @@ Verify that parent properties match an object currently displayed in your applic
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-06-18 14:47:12</StartTime>
-    <Duration>22</Duration>
-    <Result>Failed</Result>
+    <StartTime>2020-10-15 17:24:54</StartTime>
+    <Duration>4</Duration>
+    <Result>Done</Result>
     <InputParameters />
     <Extension>
-      <IconKey>91cb6fecde3c46f8b9598fa1784361f2</IconKey>
+      <IconKey>d0a74f17678345ae85dd91bf828ae89e</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -270,11 +360,11 @@ Verify that parent properties match an object currently displayed in your applic
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-06-18 14:47:12</StartTime>
-    <Duration>22</Duration>
-    <Result>Failed</Result>
+    <StartTime>2020-10-15 17:24:54</StartTime>
+    <Duration>4</Duration>
+    <Result>Done</Result>
     <Extension>
-      <IconKey>83e3041802b64cf6a7d146d6264112af</IconKey>
+      <IconKey>703750b461664261a6b9417d36255e07</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -294,25 +384,30 @@ Verify that parent properties match an object currently displayed in your applic
 <Data>
     <Name>GUIDT</Name>
     <ToolName>Micro Focus Unified Functional Testing</ToolName>
-    <ToolVersion>14.51</ToolVersion>
-    <ToolVersionStringLiteral>14.51</ToolVersionStringLiteral>
+    <ToolVersion>14.52</ToolVersion>
+    <ToolVersionStringLiteral>14.52</ToolVersionStringLiteral>
     <Description />
-    <StartTime>2019-06-18 14:47:11</StartTime>
-    <Duration>23</Duration>
-    <Result>Failed</Result>
-    <InputParameters />
+    <StartTime>2020-10-15 17:24:54</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <InputParameters>
+      <Parameter name="ParamString" value="radik333333" type="System.String" />
+      <Parameter name="ParamNumber" value="123" type="System.Double" />
+      <Parameter name="ParamBoolean" value="True" type="System.Boolean" />
+      <Parameter name="ParamDate" value="2020/01/02" type="System.DateTime" />
+    </InputParameters>
     <Extension>
-      <IconKey>58e9cf8d2e514159afb4c39b225ceb80</IconKey>
+      <IconKey>40900116e0d14b529ee5014228984184</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
       <Timezone>+03:00:00</Timezone>
       <Locale>English (United States)</Locale>
-      <User>swinfra\_octane_xmen_cyphers</User>
-      <CpuInfo>Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz</CpuInfo>
-      <NumberOfCores>2</NumberOfCores>
-      <TotalMemory>3072</TotalMemory>
-      <HostName>swinfra.net\MYD-VMA00934</HostName>
+      <User>CORPDOM\berkovir</User>
+      <CpuInfo>Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz</CpuInfo>
+      <NumberOfCores>12</NumberOfCores>
+      <TotalMemory>32575</TotalMemory>
+      <HostName>microfocus.com\ILBERKOVIR03</HostName>
       <OSInfo>Windows 10</OSInfo>
     </Environment>
     <TestedApplications />
@@ -323,10 +418,10 @@ Verify that parent properties match an object currently displayed in your applic
 </ReportNode>
 <GeneralInfo>
     <ResultName>GUIDT</ResultName>
-    <RunStartTime>2019-06-18 14:47:11</RunStartTime>
+    <RunStartTime>2020-10-15 17:24:54</RunStartTime>
     <Timezone>+03:00:00</Timezone>
     <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
-    <OrchestrationToolVersion>14.51</OrchestrationToolVersion>
-    <OrchestrationToolVersionStringLiteral>14.51</OrchestrationToolVersionStringLiteral>
+    <OrchestrationToolVersion>14.52</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>14.52</OrchestrationToolVersionStringLiteral>
   </GeneralInfo>
 </Results>
