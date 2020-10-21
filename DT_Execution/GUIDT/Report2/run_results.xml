@@ -9,7 +9,7 @@
     <Name>Edit.Type</Name>
     <Description>"Default - test
 "</Description>
-    <StartTime>2020-10-15 17:24:55</StartTime>
+    <StartTime>2020-10-21 13:12:43</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -34,7 +34,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IconKey>87a29bc0eee444809672333430fd26bf</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -42,9 +42,9 @@
 <ReportNode type="Step">
 <Data>
     <Name>Edit.Type</Name>
-    <Description>"ParamString = default string 123
+    <Description>"ParamString0 = radi message from job
 "</Description>
-    <StartTime>2020-10-15 17:24:55</StartTime>
+    <StartTime>2020-10-21 13:12:43</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -60,7 +60,7 @@
           </Object>
         </Path>
         <Operation>Type</Operation>
-        <OperationData><![CDATA["ParamString = default string 123
+        <OperationData><![CDATA["ParamString0 = radi message from job
 "]]></OperationData>
         <Properties>
           <Property>
@@ -69,7 +69,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IconKey>87a29bc0eee444809672333430fd26bf</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -77,9 +77,9 @@
 <ReportNode type="Step">
 <Data>
     <Name>Edit.Type</Name>
-    <Description>"ParamNumber = 123
+    <Description>"ParamNumber = 9999
 "</Description>
-    <StartTime>2020-10-15 17:24:56</StartTime>
+    <StartTime>2020-10-21 13:12:44</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -95,7 +95,7 @@
           </Object>
         </Path>
         <Operation>Type</Operation>
-        <OperationData><![CDATA["ParamNumber = 123
+        <OperationData><![CDATA["ParamNumber = 9999
 "]]></OperationData>
         <Properties>
           <Property>
@@ -104,7 +104,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IconKey>87a29bc0eee444809672333430fd26bf</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -112,9 +112,9 @@
 <ReportNode type="Step">
 <Data>
     <Name>Edit.Type</Name>
-    <Description>"ParamBoolean = True
+    <Description>"ParamBoolean = False
 "</Description>
-    <StartTime>2020-10-15 17:24:57</StartTime>
+    <StartTime>2020-10-21 13:12:45</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -130,7 +130,7 @@
           </Object>
         </Path>
         <Operation>Type</Operation>
-        <OperationData><![CDATA["ParamBoolean = True
+        <OperationData><![CDATA["ParamBoolean = False
 "]]></OperationData>
         <Properties>
           <Property>
@@ -139,7 +139,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IconKey>87a29bc0eee444809672333430fd26bf</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -149,7 +149,7 @@
     <Name>Edit.Type</Name>
     <Description>"ParamDate = 1/2/2020
 "</Description>
-    <StartTime>2020-10-15 17:24:57</StartTime>
+    <StartTime>2020-10-21 13:12:45</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -174,7 +174,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>f8345e260b424012b5f5840a3e7e6259</IconKey>
+      <IconKey>87a29bc0eee444809672333430fd26bf</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -183,7 +183,7 @@
 <Data>
     <Name>Notepad.Close</Name>
     <Description />
-    <StartTime>2020-10-15 17:24:57</StartTime>
+    <StartTime>2020-10-21 13:12:46</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -214,7 +214,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>9991697d6731442195f9ae53415ece3a</IconKey>
+      <IconKey>0f623e6f3b35490c9171336812e919fb</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -224,7 +224,7 @@
 <Data>
     <Name>Don't Save.Click</Name>
     <Description />
-    <StartTime>2020-10-15 17:24:58</StartTime>
+    <StartTime>2020-10-21 13:12:47</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -255,7 +255,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>8a312bcf38ff4f2cbc56fed944b5a56c</IconKey>
+      <IconKey>749a171e74754e259002b94e096f81f0</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -263,7 +263,7 @@
 <Data>
     <Name>Notepad</Name>
     <Description>Dialog</Description>
-    <StartTime>2020-10-15 17:24:58</StartTime>
+    <StartTime>2020-10-21 13:12:47</StartTime>
     <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
@@ -299,7 +299,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>1706b52dc8dd47c3a5e13818b8433b99</IconKey>
+      <IconKey>37e92c4134954006bc51c640ed507c4a</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -307,8 +307,8 @@
 <Data>
     <Name>Notepad</Name>
     <Description>Window</Description>
-    <StartTime>2020-10-15 17:24:55</StartTime>
-    <Duration>3</Duration>
+    <StartTime>2020-10-21 13:12:43</StartTime>
+    <Duration>4</Duration>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -339,7 +339,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>9991697d6731442195f9ae53415ece3a</IconKey>
+      <IconKey>0f623e6f3b35490c9171336812e919fb</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -347,12 +347,17 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2020-10-15 17:24:54</StartTime>
-    <Duration>4</Duration>
+    <StartTime>2020-10-21 13:12:42</StartTime>
+    <Duration>5</Duration>
     <Result>Done</Result>
-    <InputParameters />
+    <InputParameters>
+      <Parameter name="ParamString" value="radi message from job" type="System.String" />
+      <Parameter name="ParamNumber" value="9999" type="System.Double" />
+      <Parameter name="ParamBoolean" value="False" type="System.Boolean" />
+      <Parameter name="ParamDate" value="2020/01/02" type="System.DateTime" />
+    </InputParameters>
     <Extension>
-      <IconKey>d0a74f17678345ae85dd91bf828ae89e</IconKey>
+      <IconKey>7d77b2e089014933ad9d50983865167a</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -360,11 +365,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2020-10-15 17:24:54</StartTime>
-    <Duration>4</Duration>
+    <StartTime>2020-10-21 13:12:42</StartTime>
+    <Duration>5</Duration>
     <Result>Done</Result>
     <Extension>
-      <IconKey>703750b461664261a6b9417d36255e07</IconKey>
+      <IconKey>ac91e7da75c74ea799db140be8a6e917</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -387,17 +392,17 @@
     <ToolVersion>14.52</ToolVersion>
     <ToolVersionStringLiteral>14.52</ToolVersionStringLiteral>
     <Description />
-    <StartTime>2020-10-15 17:24:54</StartTime>
-    <Duration>5</Duration>
+    <StartTime>2020-10-21 13:12:40</StartTime>
+    <Duration>7</Duration>
     <Result>Done</Result>
     <InputParameters>
-      <Parameter name="ParamString" value="radik333333" type="System.String" />
-      <Parameter name="ParamNumber" value="123" type="System.Double" />
-      <Parameter name="ParamBoolean" value="True" type="System.Boolean" />
+      <Parameter name="ParamString" value="radi message from job" type="System.String" />
+      <Parameter name="ParamNumber" value="9999" type="System.Double" />
+      <Parameter name="ParamBoolean" value="False" type="System.Boolean" />
       <Parameter name="ParamDate" value="2020/01/02" type="System.DateTime" />
     </InputParameters>
     <Extension>
-      <IconKey>40900116e0d14b529ee5014228984184</IconKey>
+      <IconKey>cee3a351164b44a79c96c124d9b349f1</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -418,7 +423,7 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>GUIDT</ResultName>
-    <RunStartTime>2020-10-15 17:24:54</RunStartTime>
+    <RunStartTime>2020-10-21 13:12:40</RunStartTime>
     <Timezone>+03:00:00</Timezone>
     <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.52</OrchestrationToolVersion>
