@@ -7,5 +7,7 @@ Window("Notepad").WinEditor("Edit").Type  "ParamNumber = " & Parameter("ParamNum
 
 Window("Notepad").WinEditor("Edit").Type  "ParamBoolean = " & Parameter("ParamBoolean") & vbNewLine
 
+wait(10)
+
 Window("Notepad").Close
 Window("Notepad").Dialog("Notepad").WinButton("Don't Save").Click @@ hightlight id_;_263024_;_script infofile_;_ZIP::ssf4.xml_;_
