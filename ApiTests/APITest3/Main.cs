@@ -107,6 +107,10 @@
             _flow.StartActivity1.JMS.JMSConnectionFactory = @"";
             _flow.StartActivity1.JMS.SecurityPrincipal = @"";
             _flow.StartActivity1.JMS.SecurityCredentials = @"";
+            _flow.StartActivity1.JMS.JMSClientID = @"";
+            _flow.StartActivity1.JMS.SSLPassword = @"";
+            _flow.StartActivity1.JMS.SSLTrustedCertificate = @"";
+            _flow.StartActivity1.JMS.SSLIdentity = @"";
             _flow.StartActivity1.JMS.ConnectionsPerProcess = @"1";
             _flow.StartActivity1.JMS.TimeoutOptions = @"DN_User_defined_Timeout";
             _flow.StartActivity1.JMS.UserTimeout = @"20";
