@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\_alm_uft_auto\\Documents\\Unified Functional Testing\\FlightGUIBU2\\Res1',namePairs:[]}]};
