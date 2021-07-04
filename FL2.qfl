@@ -1,0 +1,4 @@
+﻿Public Function Myfunc2
+       ' TODO: add function body here
+       Reporter.ReportEvent micPass,"From FL2","Myfunc Fl2"
+End Function
