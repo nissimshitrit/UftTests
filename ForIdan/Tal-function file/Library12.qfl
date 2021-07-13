@@ -1,0 +1,3 @@
+﻿Public Function calc(x,y)
+       Integer MyValue=x+y
+       End Function
