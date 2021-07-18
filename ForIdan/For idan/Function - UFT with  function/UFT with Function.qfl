@@ -1,0 +1,7 @@
+﻿
+ 
+ 
+Function RecoveryFunction1(Object, Method, Arguments, retVal)
+ systemutil.CloseProcessByWndTitle("Micro Focus MyFlight Sample Application")
+End Function 
+ 
