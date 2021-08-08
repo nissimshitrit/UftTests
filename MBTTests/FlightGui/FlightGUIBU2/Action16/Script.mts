@@ -1,1 +1,0 @@
-﻿SystemUtil.CloseDescendentProcesses
